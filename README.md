@@ -3,7 +3,6 @@
 
 调用方式如下：
 > min2mult(X,Y)  
-
-  [k,b,x,y]=min2mult(X,Y)
+[k,b,x,y]=min2mult(X,Y)
 
 其中X,Y是测得的两组数据。k为拟合斜率，b为纵截距，x,y分别表示两组数据的平均值。
